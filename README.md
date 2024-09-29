@@ -8,20 +8,6 @@ All LEDs were satisfactory. Chartreuse and Purple are both dim, even at max curr
 
 With Raspberry Pi (3.3V) use 220 ohms resistor.
 
-- Red
-- Orange
-- Yellow
-
-22 ohms:
-
-- Green
-- Blue
-- White
-- Pink
-- Purple
-- Chartreuse
-- Soft White
-
 ## Documentation
 
 ### Pins

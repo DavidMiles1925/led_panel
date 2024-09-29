@@ -6,8 +6,7 @@ This project was done to test each of 10 new LED values that I purchased. It is 
 
 All LEDs were satisfactory. Chartreuse and Purple are both dim, even at max current.
 
-With Raspberry Pi (3.3V)
-100 ohms:
+With Raspberry Pi (3.3V) use 220 ohms resistor.
 
 - Red
 - Orange

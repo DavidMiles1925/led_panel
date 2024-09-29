@@ -42,9 +42,9 @@ With Raspberry Pi (3.3V)
 
 ### Available Patterns
 
-marching
-blink
-bounce
-cross
-two_marching
+marching  
+blink  
+bounce  
+cross  
+two_marching  
 solid_on
